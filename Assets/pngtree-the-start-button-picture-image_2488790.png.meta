@@ -1,0 +1,1196 @@
+fileFormatVersion: 2
+guid: a2ff3073398d56d498303eab95e9141b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1344031749622612001
+    second: pngtree-the-start-button-picture-image_2488790_0
+  - first:
+      213: 8996920237578327514
+    second: pngtree-the-start-button-picture-image_2488790_1
+  - first:
+      213: -303981792511784870
+    second: pngtree-the-start-button-picture-image_2488790_2
+  - first:
+      213: 8621216568326540346
+    second: pngtree-the-start-button-picture-image_2488790_3
+  - first:
+      213: -7192931232112887751
+    second: pngtree-the-start-button-picture-image_2488790_4
+  - first:
+      213: 2798203270638172173
+    second: pngtree-the-start-button-picture-image_2488790_5
+  - first:
+      213: 5108371304047202725
+    second: pngtree-the-start-button-picture-image_2488790_6
+  - first:
+      213: -6694969709962125236
+    second: pngtree-the-start-button-picture-image_2488790_7
+  - first:
+      213: 3969472943729043011
+    second: pngtree-the-start-button-picture-image_2488790_8
+  - first:
+      213: -2286545681353435286
+    second: pngtree-the-start-button-picture-image_2488790_9
+  - first:
+      213: 6542764028184705074
+    second: pngtree-the-start-button-picture-image_2488790_10
+  - first:
+      213: 7725721420198794661
+    second: pngtree-the-start-button-picture-image_2488790_11
+  - first:
+      213: -6479422876148611462
+    second: pngtree-the-start-button-picture-image_2488790_12
+  - first:
+      213: -7399141448086701999
+    second: pngtree-the-start-button-picture-image_2488790_13
+  - first:
+      213: 4504079574369630507
+    second: pngtree-the-start-button-picture-image_2488790_14
+  - first:
+      213: 8709633309955308691
+    second: pngtree-the-start-button-picture-image_2488790_15
+  - first:
+      213: -2972673033514053714
+    second: pngtree-the-start-button-picture-image_2488790_16
+  - first:
+      213: 6876315146028164201
+    second: pngtree-the-start-button-picture-image_2488790_17
+  - first:
+      213: 2106296869679343692
+    second: pngtree-the-start-button-picture-image_2488790_18
+  - first:
+      213: -2001909570503959162
+    second: pngtree-the-start-button-picture-image_2488790_19
+  - first:
+      213: 1976734311611663309
+    second: pngtree-the-start-button-picture-image_2488790_20
+  - first:
+      213: -3081759948689890403
+    second: pngtree-the-start-button-picture-image_2488790_21
+  - first:
+      213: 1533300476636655088
+    second: pngtree-the-start-button-picture-image_2488790_22
+  - first:
+      213: -1426280345472995112
+    second: pngtree-the-start-button-picture-image_2488790_23
+  - first:
+      213: 2172604718155404904
+    second: pngtree-the-start-button-picture-image_2488790_24
+  - first:
+      213: -2863677693384119298
+    second: pngtree-the-start-button-picture-image_2488790_25
+  - first:
+      213: 6250178149028527980
+    second: pngtree-the-start-button-picture-image_2488790_26
+  - first:
+      213: -9173548897453569271
+    second: pngtree-the-start-button-picture-image_2488790_27
+  - first:
+      213: -738070595805463475
+    second: pngtree-the-start-button-picture-image_2488790_28
+  - first:
+      213: -2532211854476008946
+    second: pngtree-the-start-button-picture-image_2488790_29
+  - first:
+      213: -6240077291458911889
+    second: pngtree-the-start-button-picture-image_2488790_30
+  - first:
+      213: 8444020780676544910
+    second: pngtree-the-start-button-picture-image_2488790_31
+  - first:
+      213: 8234613930218977712
+    second: pngtree-the-start-button-picture-image_2488790_32
+  - first:
+      213: 1169520747417184690
+    second: pngtree-the-start-button-picture-image_2488790_33
+  - first:
+      213: 2635911940528678793
+    second: pngtree-the-start-button-picture-image_2488790_34
+  - first:
+      213: 4081018912243124654
+    second: pngtree-the-start-button-picture-image_2488790_35
+  - first:
+      213: -7235989132723594442
+    second: pngtree-the-start-button-picture-image_2488790_36
+  - first:
+      213: 6252013055461731192
+    second: pngtree-the-start-button-picture-image_2488790_37
+  - first:
+      213: -2777417635139975437
+    second: pngtree-the-start-button-picture-image_2488790_38
+  - first:
+      213: 4557994301960043353
+    second: pngtree-the-start-button-picture-image_2488790_39
+  - first:
+      213: -6451033554334486654
+    second: pngtree-the-start-button-picture-image_2488790_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 946
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1204a1b51c5f6a210800000000000000
+      internalID: 1344031749622612001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1065
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad51161d94b7bdc70800000000000000
+      internalID: 8996920237578327514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1090
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5806279b2a08cbf0800000000000000
+      internalID: -303981792511784870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 946
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3cc0deaac6b4a770800000000000000
+      internalID: 8621216568326540346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1065
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938391877239d2c90800000000000000
+      internalID: -7192931232112887751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_5
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1090
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0879b39c0735d620800000000000000
+      internalID: 2798203270638172173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_6
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1008
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1588eb2a494e640800000000000000
+      internalID: 5108371304047202725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_7
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1045
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4025bf2580b613a0800000000000000
+      internalID: -6694969709962125236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_8
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1008
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3466e747c96661730800000000000000
+      internalID: 3969472943729043011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_9
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1045
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67993441de8440e0800000000000000
+      internalID: -2286545681353435286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 251
+        width: 769
+        height: 769
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2383725f7319cca50800000000000000
+      internalID: 6542764028184705074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_11
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 947
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a55394f2b6473b60800000000000000
+      internalID: 7725721420198794661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_12
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 978
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a764f9d39377416a0800000000000000
+      internalID: -6479422876148611462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 786
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1583ce72e08f05990800000000000000
+      internalID: -7399141448086701999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_14
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 811
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29f46e5284b18e30800000000000000
+      internalID: 4504079574369630507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_15
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 614
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cbbcb8955ded870800000000000000
+      internalID: 8709633309955308691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_16
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 728
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf030c30a1feb6d0800000000000000
+      internalID: -2972673033514053714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 766
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964a5aa61349d6f50800000000000000
+      internalID: 6876315146028164201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 668
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4821c4e7d11b3d10800000000000000
+      internalID: 2106296869679343692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 699
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d18a92ad9c734e0800000000000000
+      internalID: -2001909570503959162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 345
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc380fa1265ce6b10800000000000000
+      internalID: 1976734311611663309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_21
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 464
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93205f87a36b35d0800000000000000
+      internalID: -3081759948689890403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_22
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 489
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd6dd3e8a0674510800000000000000
+      internalID: 1533300476636655088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_23
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 407
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d0f5f12595d43ce0800000000000000
+      internalID: -1426280345472995112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_24
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 444
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8669dfeea74a62e10800000000000000
+      internalID: 2172604718155404904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_25
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 346
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb21ae6f4c2248d0800000000000000
+      internalID: -2863677693384119298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_26
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 377
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ff0c369e71db650800000000000000
+      internalID: 6250178149028527980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_27
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 185
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b8a9d91e101b080800000000000000
+      internalID: -9173548897453569271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cbadd14b8d1c5f0800000000000000
+      internalID: -738070595805463475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_29
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 13
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02aced0cb6cbdcd0800000000000000
+      internalID: -2532211854476008946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_30
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 185
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f612c97c3cac669a0800000000000000
+      internalID: -6240077291458911889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_31
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 210
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89fd3469203f2570800000000000000
+      internalID: 8444020780676544910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_32
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 13
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b97f2d9db9374270800000000000000
+      internalID: 8234613930218977712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_33
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 127
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b920436ce8fa3010800000000000000
+      internalID: 1169520747417184690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_34
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 165
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9872c6ab1f3a49420800000000000000
+      internalID: 2635911940528678793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_35
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 127
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea907e91411b2a830800000000000000
+      internalID: 4081018912243124654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 165
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b5c61c83a949b90800000000000000
+      internalID: -7235989132723594442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 67
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ba6e5dfbc93c650800000000000000
+      internalID: 6252013055461731192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_38
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f683905061a479d0800000000000000
+      internalID: -2777417635139975437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_39
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 67
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b35981baf314f30800000000000000
+      internalID: 4557994301960043353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-the-start-button-picture-image_2488790_40
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 98
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f64cf49235976a0800000000000000
+      internalID: -6451033554334486654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-the-start-button-picture-image_2488790_0: 1344031749622612001
+      pngtree-the-start-button-picture-image_2488790_1: 8996920237578327514
+      pngtree-the-start-button-picture-image_2488790_10: 6542764028184705074
+      pngtree-the-start-button-picture-image_2488790_11: 7725721420198794661
+      pngtree-the-start-button-picture-image_2488790_12: -6479422876148611462
+      pngtree-the-start-button-picture-image_2488790_13: -7399141448086701999
+      pngtree-the-start-button-picture-image_2488790_14: 4504079574369630507
+      pngtree-the-start-button-picture-image_2488790_15: 8709633309955308691
+      pngtree-the-start-button-picture-image_2488790_16: -2972673033514053714
+      pngtree-the-start-button-picture-image_2488790_17: 6876315146028164201
+      pngtree-the-start-button-picture-image_2488790_18: 2106296869679343692
+      pngtree-the-start-button-picture-image_2488790_19: -2001909570503959162
+      pngtree-the-start-button-picture-image_2488790_2: -303981792511784870
+      pngtree-the-start-button-picture-image_2488790_20: 1976734311611663309
+      pngtree-the-start-button-picture-image_2488790_21: -3081759948689890403
+      pngtree-the-start-button-picture-image_2488790_22: 1533300476636655088
+      pngtree-the-start-button-picture-image_2488790_23: -1426280345472995112
+      pngtree-the-start-button-picture-image_2488790_24: 2172604718155404904
+      pngtree-the-start-button-picture-image_2488790_25: -2863677693384119298
+      pngtree-the-start-button-picture-image_2488790_26: 6250178149028527980
+      pngtree-the-start-button-picture-image_2488790_27: -9173548897453569271
+      pngtree-the-start-button-picture-image_2488790_28: -738070595805463475
+      pngtree-the-start-button-picture-image_2488790_29: -2532211854476008946
+      pngtree-the-start-button-picture-image_2488790_3: 8621216568326540346
+      pngtree-the-start-button-picture-image_2488790_30: -6240077291458911889
+      pngtree-the-start-button-picture-image_2488790_31: 8444020780676544910
+      pngtree-the-start-button-picture-image_2488790_32: 8234613930218977712
+      pngtree-the-start-button-picture-image_2488790_33: 1169520747417184690
+      pngtree-the-start-button-picture-image_2488790_34: 2635911940528678793
+      pngtree-the-start-button-picture-image_2488790_35: 4081018912243124654
+      pngtree-the-start-button-picture-image_2488790_36: -7235989132723594442
+      pngtree-the-start-button-picture-image_2488790_37: 6252013055461731192
+      pngtree-the-start-button-picture-image_2488790_38: -2777417635139975437
+      pngtree-the-start-button-picture-image_2488790_39: 4557994301960043353
+      pngtree-the-start-button-picture-image_2488790_4: -7192931232112887751
+      pngtree-the-start-button-picture-image_2488790_40: -6451033554334486654
+      pngtree-the-start-button-picture-image_2488790_5: 2798203270638172173
+      pngtree-the-start-button-picture-image_2488790_6: 5108371304047202725
+      pngtree-the-start-button-picture-image_2488790_7: -6694969709962125236
+      pngtree-the-start-button-picture-image_2488790_8: 3969472943729043011
+      pngtree-the-start-button-picture-image_2488790_9: -2286545681353435286
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
